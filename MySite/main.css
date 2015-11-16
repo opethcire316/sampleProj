@@ -1,0 +1,26 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background-color: light-gray;
+}
+
+#main-container {
+	height: 100%;
+	width: 75%;
+	margin: 0 auto;
+	background-color: gray;
+}
+img {
+	width: 400px;
+	height: 200px;
+}
+#hold {
+	height:100%;
+	width: 100%;
+	background-color: red;
+	text-align: center
+}
